@@ -58,7 +58,7 @@ We would like to thank each and every one of skilled and experienced instructors
 
 ## Contributors:
 ![Image](pics/ahmed.jpg)|![Image](pics/dalia.jpg)|
-|:-----------------:|:-----------:|
+|:-----------:|:-----------:|
 |[Ahmed Emad](https://www.linkedin.com/in/ahmed-emad1/)|[Dalia Badr](https://www.linkedin.com/in/DaliaBadr-db7/)|
 
 
