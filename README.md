@@ -1,7 +1,7 @@
 # ITI-Graduation-Project
 ## Our graduation project for ITI journey at devops track :relaxed:
 
-# DevOps and cloud providers used:
+# DevOps and cloud provider used:
 ## 1. Docker Platform
 ## 2. Kubernetes
 ## 3. Terraform 
@@ -54,11 +54,12 @@ ansible-playbook provision-k8s.yaml
 
 ## Finaly
 At the end of this great journey
-We would like to thank each and every one of skilled and experienced instructors who helped us greatly and supported us whether by lectures or with valuable advices :blue_heart: :blue_heart:
+We would like to thank each and every one of skilled and experienced instructors who helped us greatly and supported us whether by lectures or with valuable advices  :blue_heart: :blue_heart:
 
 ## Contributors:
-![Image](pics/ahmed.jpg)
-
+![Image](pics/ahmed.jpg)|![Image](pics/dalia.jpg)|
+|:-----------------:|:-----------:|
+|[Ahmed Emad](https://www.linkedin.com/in/ahmed-emad1/)|[Dalia Badr](https://www.linkedin.com/in/DaliaBadr-db7/)|
 
 
 
