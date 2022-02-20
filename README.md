@@ -57,7 +57,7 @@ At the end of this great journey
 We would like to thank each and every one of skilled and experienced instructors who helped us greatly and supported us whether by lectures or with valuable advices  :blue_heart: :blue_heart:
 
 ## Contributors:
-![Image](pics/ahmed.jpg)|![Image](pics/dalia.jpg)|
+![Image](pics/ahmed.jpeg)|![Image](pics/dalia.jpeg)|
 |:-----------:|:-----------:|
 |[Ahmed Emad](https://www.linkedin.com/in/ahmed-emad1/)|[Dalia Badr](https://www.linkedin.com/in/DaliaBadr-db7/)|
 
