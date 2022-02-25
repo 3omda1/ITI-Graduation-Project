@@ -1,7 +1,7 @@
 # ITI-Graduation-Project
 ## Our graduation project for ITI journey at devops track :relaxed:
 
-# DevOps and cloud provider used:
+# DevOps tools and cloud provider used:
 ## 1. Docker Platform
 ## 2. Kubernetes
 ## 3. Terraform 
